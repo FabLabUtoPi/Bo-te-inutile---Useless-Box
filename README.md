@@ -1,2 +1,2 @@
-# Bo-te-inutile---Useless-Box
+# Boite inutile
 Une boîte qui est inutile... donc indispensable
